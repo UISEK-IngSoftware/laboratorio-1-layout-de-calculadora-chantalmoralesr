@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Chantal Morales
+- **Carrera**: Ingeniería de software
+- **Fecha de entrega**: 18/04/2026
 
 ---
 
